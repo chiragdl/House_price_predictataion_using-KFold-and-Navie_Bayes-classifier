@@ -12,3 +12,4 @@ Algorithm:
 6. Apply Naive Bayesian classification algorithm.
 7. Predict the model accuracy. 
 8. Consider the new testing dataset and predict the price of the real-estate.
+![image](https://user-images.githubusercontent.com/80149312/224531011-1c235e6f-12e7-4879-8eaf-da2d67c784f8.png)
